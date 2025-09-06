@@ -1,7 +1,9 @@
 # MY PET
 
-## Desmond,Troy
+## Desmond, Troy, Teacup.
 
 ![Desmond](image.png)
 
-![Troy](![alt text](image-1.png))
+![Troy](image-1.png)
+
+![Teacup](image copy.png)
