@@ -6,4 +6,4 @@
 
 ![Troy](image-1.png)
 
-![Teacup](image copy.png)
+![Teacup]()
